@@ -12,7 +12,7 @@
             jdbc:mysql://localhost:3306/fsadexam?useSSL=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true
         </property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">root</property>
+        <property name="hibernate.connection.password">Meghana@0706</property>
 
         <!-- ========== Hibernate Dialect ========== -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
